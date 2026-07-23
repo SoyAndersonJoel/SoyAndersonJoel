@@ -24,6 +24,13 @@ Me distingo por mi pensamiento crítico, aprendizaje continuo y una mentalidad o
 
 ### 🚀 Proyectos Destacados
 
+#### **NeoHW** (Proyecto de Titulación – Tesis de Grado)
+Plataforma avanzada de e-commerce especializada en hardware con asistente de ensamblaje basado en Inteligencia Artificial.
+* **Rol:** Backend Developer
+* **Funcionalidades:** Diseño de motor de compatibilidad de hardware (arquitectura EAV) en tiempo real, integración de LLMs para recomendaciones de ensamblajes según presupuesto, implementación de pasarela Stripe con Webhooks, sistema de notificaciones transaccionales con Resend y pruebas de estrés/carga con Artillery.
+* **Stack:** NestJS, Node.js, PostgreSQL, Prisma ORM, Stripe, Groq AI, Artillery, JWT, TypeScript.
+* 🔗 [Demo](https://neohw-backend.onrender.com/api/v1/api-docs)
+  
 #### **Trackifly** (Proyecto grupal – Henry Bootcamp)
 Plataforma logística integral para la gestión eficiente de envíos y notificaciones en tiempo real.
 * **Rol:** Full Stack Developer (Co-líder técnico)
