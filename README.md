@@ -7,7 +7,7 @@ Desarrollador Full Stack con sólida base técnica en ingeniería y formación i
 
 Me distingo por mi pensamiento crítico, aprendizaje continuo y una mentalidad orientada a resultados, buscando siempre aportar valor técnico y estratégico en equipos de alto desempeño.
 
-📄 [Descargar mi CV]([https://drive.google.com/file/d/1JneMoU6aTdrcWZPS7YzGd0VJfaFbK2NN/view?usp=sharing](https://drive.google.com/file/d/1JneMoU6aTdrcWZPS7YzGd0VJfaFbK2NN/view?usp=sharing)
+📄 [Descargar mi CV]([https://drive.google.com/file/d/1JneMoU6aTdrcWZPS7YzGd0VJfaFbK2NN/view?usp=sharing](https://drive.google.com/file/d/1JneMoU6aTdrcWZPS7YzGd0VJfaFbK2NN/view?usp=sharing))
 
 ---
 
