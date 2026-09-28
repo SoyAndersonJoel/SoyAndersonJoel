@@ -14,9 +14,9 @@ Me distingo por mi pensamiento crítico, aprendizaje continuo y una mentalidad o
 ### 🛠️ Stack Tecnológico
 
 * **Frontend:** React, Tailwind CSS, HTML5, CSS3
-* **Backend:** Node.js, NestJS, Express, TypeORM
+* **Backend:** Node.js, NestJS, Express, TypeORM, Pandas, Numpy, Sprint Boot. 
 * **Bases de Datos:** PostgreSQL, MongoDB
-* **Lenguajes:** JavaScript, TypeScript
+* **Lenguajes:** JavaScript, TypeScript, Python, Java, Flutter. 
 * **Herramientas:** Git, GitHub, Docker, Trello
 * **Metodologías:** Scrum (Agile)
 
