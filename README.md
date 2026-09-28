@@ -19,6 +19,7 @@ Me distingo por mi pensamiento crítico, aprendizaje continuo y una mentalidad o
 * **Lenguajes:** JavaScript, TypeScript, Python, Java, Flutter. 
 * **Herramientas:** Git, GitHub, Docker, Trello
 * **Metodologías:** Scrum (Agile)
+* **Agentes IA:** Claude Code, Gemini.
 
 ---
 
